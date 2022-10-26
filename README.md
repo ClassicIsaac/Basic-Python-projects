@@ -1,2 +1,1 @@
-# Basic-Python-projects
-Python projects for beginners
+Two beginner-friendly Python mini projects to enhance your Python skills
